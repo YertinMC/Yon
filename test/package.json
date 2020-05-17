@@ -9,7 +9,7 @@
     "description": "Yon Test Plugin",
     "author": "YertinMC",
     "version": "1.0",
-    "scriptSource": "https://raw.githubusercontent.com/YertinMC/yon/master/test/main.js"
+    "scriptSource": "https://gitee.com/xtex/static/raw/master/yertin_mc_yon_test/main.js"
   },
   "repository": {
     "type": "git",
